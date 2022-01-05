@@ -8,7 +8,7 @@ This software is made public for research use only. It may be modified and redis
 
 # QPstab
 
-Verifies whether the origin of a quasi-periodic linearization is asymptotically stable. To this end QPstab tries to compute a contractive trap. If successful the origin is asymptotically stable as shown in [1]. For more details can be found in [1] and the comments accompanying the source code of 'QPstab.m'.  
+Verifies whether the origin of a quasi-periodic linearization is asymptotically stable. To this end QPstab tries to compute a contractive trap. If successful the origin is asymptotically stable as shown in [1]. More details can be found in [1] and the comments accompanying the source code of 'QPstab.m'.  
 
 # Citation
 Please cite [1] if you use QPstab in your own work.
