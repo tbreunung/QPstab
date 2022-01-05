@@ -19,7 +19,7 @@ Please cite [1] if you use QPstab in your own work.
 
 # Installation notes
 
-Writen and extensively tested with MATLAB R2019b. Works also for MATLAB R2020a and R2021a. 
+Coded and extensively tested with MATLAB R2019b. Works also for MATLAB R2020a and R2021a. 
 
  1) The commented source code is contained in the file 'QPstab.m'. 
 
