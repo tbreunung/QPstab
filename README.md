@@ -17,7 +17,8 @@ Please cite [1] if you use QPstab in your own work.
 
 # References
 
-[1] T. Breunung. Asymptotic Stability of Quasi-periodic Orbits, Proceedings of the Royal Society A, 478:20210787, 2022. DOI https://doi.org/10.1098/rspa.2021.0787
+[1] T. Breunung. Asymptotic Stability of Quasi-periodic Orbits, Proceedings of the Royal Society A, 478:20210787, 2022. 
+    https://doi.org/10.1098/rspa.2021.0787
 
 # Installation notes
 
