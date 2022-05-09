@@ -8,14 +8,16 @@ This software is made public for research use only. It may be modified and redis
 
 # QPstab
 
-Verifies whether the origin of a quasi-periodic linearization is asymptotically stable. To this end QPstab tries to compute a contractive trap. If successful the origin is asymptotically stable as shown in [1]. More details can be found in [1] and the comments accompanying the source code of 'QPstab.m'.  
+Verifies whether the origin of a quasi-periodic linearization is asymptotically stable. To this end QPstab tries to compute a contractive trap. If successful the origin is asymptotically stable as shown in [1]. 
+
+More details can be found in [1] and the comments accompanying the source code of 'QPstab.m'.  
 
 # Citation
 Please cite [1] if you use QPstab in your own work.
 
 # References
 
-[1] T. Breunung. Asymptotic Stability of Quasi-periodic Orbits, in revision, 2022 
+[1] T. Breunung. Asymptotic Stability of Quasi-periodic Orbits, Proceedings of the Royal Society A, 478:20210787, 2022. DOI https://doi.org/10.1098/rspa.2021.0787
 
 # Installation notes
 
@@ -25,4 +27,4 @@ Coded and extensively tested with MATLAB R2019b. Works also for MATLAB R2020a an
 
  2) The folder 'Examples' includes the numerical examples from [1].
     
-Maintained by Thomas Breunung, thomasbr at umd dot umd January 05, 2022.
+Maintained by Thomas Breunung, thomasbr at umd dot umd May 09, 2022.
